@@ -1,4 +1,7 @@
 
+# AWS Global Content Delivery Architecture
+
+```mermaid
 flowchart TD
     U[Users / Browsers]
     CF[Amazon CloudFront]
@@ -20,3 +23,4 @@ flowchart TD
     ALB --> TG
     TG --> EC2A
     TG --> EC2B
+```
