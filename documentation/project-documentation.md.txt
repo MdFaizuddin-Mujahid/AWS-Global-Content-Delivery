@@ -59,8 +59,4 @@ The following checks were completed:
 - Configuring CloudFront with a custom origin.
 - Understanding the relationship between CloudFront, ALB, and EC2.
 
-## 6. Resource Cleanup
 
-After completing the implementation and capturing project screenshots, the AWS resources were deleted to prevent ongoing infrastructure charges.
-
-This repository contains project documentation, architecture information, and implementation screenshots for portfolio and learning purposes.
